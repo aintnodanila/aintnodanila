@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **skinny4550@gmail.com**
 
-- ⚡ Fun fact **I love football**
+- ⚡ Fun fact: **I love football**
 
 <p align="left">
 </p>
