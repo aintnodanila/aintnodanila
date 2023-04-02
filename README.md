@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 📫 How to reach me **skinny4550@gmail.com**
+- 📫 How to reach me: **skinny4550@gmail.com**
 
 - ⚡ Fun fact: **I love football**
 
