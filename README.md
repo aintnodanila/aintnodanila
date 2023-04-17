@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Danila</h1>
+<h1 align="left">👋 Hi, I'm Danila</h1>
 <h3 align="left">An Informatics student from Poland</h3>
 
 - 🌱 I’m currently learning **Web Development**
